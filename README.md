@@ -10,7 +10,7 @@ A brief overview of the course, its objectives, and what students will learn.
 - **Office Hours:** [MWF, or "By Appointment"]
 
 ## Course Materials
-- **Syllabus:** [Link to Course Syllabus]
+- **Syllabus:** [click here](https://github.com/yao-laboratory/Design_and_Analysis_of_Algorithms/blob/main/Materials/module0/CSCE_423_823_Syllabus_2025_Fall.pdf)
 - **Textbook(s):** [List of required/recommended textbooks with links if available]
 - **Lecture Notes/Slides:** [Link to directory or platform hosting lecture materials]
 - **Assignments:** [Link to directory or platform containing assignment details]
